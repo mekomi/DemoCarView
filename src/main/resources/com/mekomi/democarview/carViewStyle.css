@@ -1,0 +1,13 @@
+#pane{
+    -fx-background-image: url("carViewBackground.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
+
+#interiorViewPane{
+    -fx-background-image: url("carViewInterior.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
